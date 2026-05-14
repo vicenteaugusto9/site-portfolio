@@ -123,7 +123,7 @@ export function HeroSection() {
       </div>
 
       {/* Scroll indicator */}
-      <motion.div
+      {/* <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1.5 }}
@@ -133,7 +133,7 @@ export function HeroSection() {
           <span className="text-xs mb-2 font-mono">Scroll down</span>
           <ChevronDown className="h-5 w-5 animate-bounce" />
         </a>
-      </motion.div>
+      </motion.div> */}
     </section>
   )
 }
