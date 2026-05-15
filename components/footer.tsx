@@ -7,7 +7,7 @@ const socialLinks = [
   { icon: Github, href: "https://github.com/vicenteaugusto9", label: "GitHub" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/vicenteaugusto/", label: "LinkedIn" },
   { icon: Mail, href: "mailto:gomezzdev@gmail.com", label: "Email", subject: "Contato via Portfólio", body: "Olá Vicente, gostaria de saber mais sobre seus serviços." },
-  { icon: Instagram, href: "https://www.instagram.com/vicenteaugusto9/", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/gomezzz_dev/", label: "Instagram" },
 ]
 
 const footerLinks = [
